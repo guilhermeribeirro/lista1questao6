@@ -1,0 +1,112 @@
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\appsettings.json
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.exe
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.deps.json
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.runtimeconfig.json
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.dll
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.pdb
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.AssemblyReference.cache
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.AssemblyInfoInputs.cache
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.AssemblyInfo.cs
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.CoreCompileInputs.cache
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.aplicativo wb co.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.build.aplicativo wb co.props
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.aplicativo wb co.props
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.aplicativo wb co.props
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\scopedcss\bundle\aplicativo wb co.styles.css
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.CopyComplete
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.dll
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\refint\aplicativo wb co.dll
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.pdb
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.genruntimeconfig.cache
+C:\Users\038216\Desktop\exercicio 3\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\ref\aplicativo wb co.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\appsettings.json
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.exe
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.deps.json
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.runtimeconfig.json
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.pdb
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.AssemblyReference.cache
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.AssemblyInfoInputs.cache
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.AssemblyInfo.cs
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.CoreCompileInputs.cache
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.aplicativo wb co.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.build.aplicativo wb co.props
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.aplicativo wb co.props
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.aplicativo wb co.props
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\scopedcss\bundle\aplicativo wb co.styles.css
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.CopyComplete
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\refint\aplicativo wb co.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.pdb
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.genruntimeconfig.cache
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\ref\aplicativo wb co.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Data\produto.json
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Nest.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Reo.Core.DataModels.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\RestSharp.dll
+C:\Users\038216\Desktop\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Yandex.Geocoder.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\appsettings.json
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.exe
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.deps.json
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.runtimeconfig.json
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\aplicativo wb co.pdb
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Elasticsearch.Net.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Nest.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Reo.Core.DataModels.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\RestSharp.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Yandex.Geocoder.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.AssemblyReference.cache
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.AssemblyInfoInputs.cache
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.AssemblyInfo.cs
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.CoreCompileInputs.cache
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.aplicativo wb co.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.build.aplicativo wb co.props
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.aplicativo wb co.props
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.aplicativo wb co.props
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\scopedcss\bundle\aplicativo wb co.styles.css
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.csproj.CopyComplete
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\refint\aplicativo wb co.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.pdb
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\aplicativo wb co.genruntimeconfig.cache
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\obj\Debug\net6.0\ref\aplicativo wb co.dll
+C:\Users\gui-s\Downloads\aplicativo wb co\aplicativo wb co\bin\Debug\net6.0\Data\aluno.json
